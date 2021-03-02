@@ -14,7 +14,7 @@
         "body": body # mail body
     }
 
-    mail = Mail(mail_arg)
+    mail = Mail(arg)
     mail.send_mail()
 
 ```
