@@ -3,10 +3,10 @@
 - メールを送信する作業を自動化
 - メールを要求するくせに返信しないやつ対策で`Disposition-Notification-To`付与のメールを送信
 
-## use clss
+## use class
 ```
     arg = {
-        "host":host,  # mail server
+        "host":host,  # mail server 
         "port": port, # port number
         "add": add,   # send from address
         "to_add": add, # send to address
