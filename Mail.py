@@ -4,7 +4,6 @@ from email.mime.text import MIMEText
 
 class Mail:
     def __init__(self, params):
-        print(params)
         self.port = params['port']
         self.host = params['host']
         self.add = params['add']
