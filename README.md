@@ -1,7 +1,7 @@
 # メール送信を自動化するためのプログラム
 
 - メールを送信する作業を自動化
-- メールを要求するくせに返信しないやつ対策で`Disposition-Notification-To`付与のメールを送信
+- `Disposition-Notification-To`付与のメールを送信
 
 ## use class
 ```
